@@ -17,4 +17,6 @@ The basic operations followed are as follows.
 
 8) The final schematic was simulated with a vector file as input and the outputs were verified.
 
-9) Layouts for all the basic components were successfully designed and LVS was verified
+9) Layouts for all the basic components were successfully designed and LVS was verified.
+
+The Vector file to run the simulations is also attached.
