@@ -1,5 +1,5 @@
 Please read the attached pdf by the name SRAM.
-The basic operations followed are as follows.
+The basic operations performed are as follows.
 
 1) Precharge circuit, 6T SRAM cell, Sense Amplifier and Write Circuit were designed along with dummy transistors and the write data path      circuit was designed to test the single cell functionality.
 
